@@ -1,5 +1,5 @@
 # markov-tweets
-## Berkeley EECS 126 Project
+## Berkeley EECS 126 (Probability and Random Processes) Project
 
 Investigating applications of Markov Chains in language by building a Markov Chain to characterize Donald Trump's tweeting style, and subsequently randomly walking along this chain to generate fake tweets. The theory behind this application is [Maximum Likelihood Estimation for Markov Chains](https://www.stat.cmu.edu/~cshalizi/462/lectures/06/markov-mle.pdf).
 
